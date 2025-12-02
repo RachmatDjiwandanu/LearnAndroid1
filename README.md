@@ -25,7 +25,7 @@ Direktori `app` adalah lokasi standar untuk semua sumber daya dan kode inti apli
 Saat ini, aplikasi ini memiliki fitur-fitur dasar sebagai berikut:
 
 1.  **Antarmuka Pengguna Sederhana:** Menampilkan layout dasar dengan Button dan Text
-2.  **Menampilkan pesan "Loading.." ketika aplikasi dimulai.:** 
+2.  **Menampilkan pesan "Loading.." ketika aplikasi dimulai** 
 3.  **angka default dengan +1 pada layar ketika tombol ditekan** 
 
 ## Teknologi yang Digunakan
@@ -48,6 +48,7 @@ Untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda, ikuti langka
       * Pilih direktori `LearnAndroid1` yang baru saja Anda clone.
 3.  **Sync dan Build:** Tunggu hingga Android Studio menyelesaikan proses *Gradle sync*.
 4.  **Jalankan:** Pilih perangkat emulator atau perangkat fisik Anda, lalu tekan tombol **Run** (ikon segitiga hijau).
+
 
 
 
