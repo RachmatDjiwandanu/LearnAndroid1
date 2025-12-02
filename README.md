@@ -1,4 +1,4 @@
-# Project: LearnAndroid1 - Aplikasi Dasar [Nama Spesifik Aplikasi]
+# Project: LearnAndroid1 - Aplikasi Dasar
 
 ## Deskripsi Proyek
 
@@ -49,4 +49,5 @@ Untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda, ikuti langka
       * Pilih direktori `LearnAndroid1` yang baru saja Anda clone.
 3.  **Sync dan Build:** Tunggu hingga Android Studio menyelesaikan proses *Gradle sync*.
 4.  **Jalankan:** Pilih perangkat emulator atau perangkat fisik Anda, lalu tekan tombol **Run** (ikon segitiga hijau).
+
 
