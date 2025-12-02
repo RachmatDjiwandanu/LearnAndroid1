@@ -1,9 +1,3 @@
-Tentu, ini adalah draf deskripsi yang bisa Anda gunakan untuk file `README.md` pada direktori `app` di repositori **LearnAndroid1**. Deskripsi ini dibuat berdasarkan asumsi bahwa proyek ini adalah aplikasi Android pembelajaran dasar.
-
-Anda dapat menyalin dan memodifikasi bagian-bagian yang dikurung siku (`[...]`) sesuai dengan detail spesifik dari aplikasi Anda.
-
------
-
 # Project: LearnAndroid1 - Aplikasi Dasar [Nama Spesifik Aplikasi]
 
 ## Deskripsi Proyek
@@ -55,3 +49,4 @@ Untuk menjalankan proyek ini di lingkungan pengembangan lokal Anda, ikuti langka
       * Pilih direktori `LearnAndroid1` yang baru saja Anda clone.
 3.  **Sync dan Build:** Tunggu hingga Android Studio menyelesaikan proses *Gradle sync*.
 4.  **Jalankan:** Pilih perangkat emulator atau perangkat fisik Anda, lalu tekan tombol **Run** (ikon segitiga hijau).
+
